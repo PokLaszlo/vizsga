@@ -1,0 +1,3 @@
+[submodule "vizsga_frontend"]
+	path = vizsga_frontend
+	url = https://github.com/PokLaszlo/vizsga_frontend.git
